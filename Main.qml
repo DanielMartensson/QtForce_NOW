@@ -1,5 +1,4 @@
 import QtQuick
-import QtQuick.Window
 import QtWebEngine
 import QtQuick.Controls
 

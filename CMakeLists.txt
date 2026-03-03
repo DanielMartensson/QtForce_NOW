@@ -5,8 +5,6 @@ project(QtForce_NOW VERSION 0.1 LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(Qt6 REQUIRED COMPONENTS Quick)
-find_package(Qt6Positioning)
-find_package(Qt6WebEngineCore)
 find_package(Qt6WebEngineQuick)
 
 qt_standard_project_setup(REQUIRES 6.8)
