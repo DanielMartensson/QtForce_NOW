@@ -3,9 +3,9 @@ import QtWebEngine
 import QtQuick.Controls
 
 ApplicationWindow {
-    width: 640
-    height: 480
     visible: true
+    width: 800
+    height: 640
     title: qsTr("QtForce NOW")
 
     WebEngineView {
