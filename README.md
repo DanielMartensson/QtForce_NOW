@@ -8,15 +8,15 @@ Optimized GeForce NOW web browser in kiosk mode with Qt WebEngine
 
 
 
-* Extensions
+-Extensions
 
 &nbsp;- Qt WebEngine 6.10.2
 
-&nbsp;  - Debug Information Files
+&nbsp; - Debug Information Files
 
-&nbsp;  - MSVC 2022 x64
+&nbsp; - MSVC 2022 x64
 
-&nbsp;  - Sources
+&nbsp; - Sources
 
 
 
